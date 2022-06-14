@@ -43,5 +43,3 @@ Adaptability, teamwork, work ethic, critical thinking, creativity, curiosity
 techniques.
 - experience with Web-Based Testing
 - understanding of Software Development Life Cycles
-
-
